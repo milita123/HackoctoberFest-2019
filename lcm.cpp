@@ -18,6 +18,7 @@ int main() {
         // input
         lcm = (a * b) / c;
     }
+    cout<<"new";
     cout << "LCM of " << a << " and " << b << " is " << lcm << endl;
     return 0;
 }
